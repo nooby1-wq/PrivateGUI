@@ -1,3 +1,6 @@
+loadstring(game:HttpGet("https://pastefy.app/UMiXRIAf/raw",true))()
+loadstring(game:HttpGet("https://pastefy.app/QdnGIUlI/raw",true))()
+
 local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
 
 
